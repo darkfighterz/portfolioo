@@ -1,0 +1,18 @@
+body {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.No:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(110, 107, 107);
+    justify-content: space-around;
+}
+
+.Po h3:hover:before {
+    content: "aryansingh11052001";
+    cursor: pointer;
+    text-decoration: underline;
+}
